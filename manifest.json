@@ -1,0 +1,9 @@
+{
+  "name": "Green Pastures Apiary Manager",
+  "short_name": "Green Pastures",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f1e7",
+  "theme_color": "#263127",
+  "description": "Rodrigues-focused apiary management and hive intelligence prototype 0.4."
+}
